@@ -1,0 +1,6 @@
+cmd + enter で実行
+選択している行のみが実行される
+
+install.packages("ggplot2") ではエラーが出た
+/usr/local/bin/R
+/usr/local/bin/radian
